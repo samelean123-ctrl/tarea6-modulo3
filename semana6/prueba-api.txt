@@ -1,0 +1,13 @@
+{
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+respuesta recibida por el servidor:
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+el servidor recibio los datos correctamente al express.json()
+que permite leer el cuerpo de la petición POST.

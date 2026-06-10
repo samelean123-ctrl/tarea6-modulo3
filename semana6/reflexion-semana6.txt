@@ -1,0 +1,5 @@
+Es importante que las plataformas tecnológicas reciban reportes de los ciudadanos de forma estructurada porque permite organizar mejor la información. Cuando un ciudadano envía un reporte en formato JSON, es más fácil analizarlos y darles respuesta.
+
+Ayuda a evitar errores o información incompleta. Los reportes estructurados permiten identificar problemas recurrentes y por ente se toma decisiones mas rápidas . facilitando asi  el trabajo de las entidades encargadas de atender las solicitudes.
+
+De esta manera, se mejora la comunicación entre los ciudadanos y las organizaciones. Asimismo, se pueden generar estadísticas y reportes para mejorar los servicios. En conclusión, una información organizada contribuye a una gestión más eficiente, transparente y efectiva.
