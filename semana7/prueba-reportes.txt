@@ -1,0 +1,16 @@
+prueba de la ruta POST/registro
+
+{
+  "tipo": "Ambiente",
+  "descripcion": "Acumulación de residuos en una zona comunitaria"
+}
+
+respuesta recibida por el servidor.
+
+{
+    "mensaje": "Reporte registrado", 
+    "reporte": {
+    "id": 2,
+    "tipo": "Ambiente",
+  "descripcion": "Acumulación de residuos en una zona comunitaria"
+}

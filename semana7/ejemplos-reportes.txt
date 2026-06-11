@@ -1,0 +1,25 @@
+ejemplos de reportes ciudadanos que podrían registrarse en el sistema.
+
+un ciudadado puede enviar un reporte GET:
+http://localhost:3000/reportes
+
+con el siguiente JSON en el cuerpo:
+{
+  "tipo": "Infraestructura",
+  "descripcion": "Daño en alumbrado público"
+}
+
+repuesta esperada del servidor: 
+
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+  {
+    "id": 2,
+    "tipo": "Ambiente",
+  "descripcion": "Acumulación de residuos en una zona comunitaria"
+}
+

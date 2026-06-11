@@ -1,0 +1,16 @@
+info:
+  name: post_reportes_semana7
+  type: http
+  seq: 1
+
+http:
+  method: POST
+  url: http://localhost:3000/reportes
+  auth: inherit
+
+settings:
+  encodeUrl: true
+  timeout: 0
+  followRedirects: true
+  maxRedirects: 5
+​
